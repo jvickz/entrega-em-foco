@@ -6,6 +6,8 @@
 
 [Abrir o dashboard](./portfolio_joao_vitor_marinho.html) · [Entender o produto](./PRODUTO_E_PILOTO.md) · [Revisar análise e limitações](./ANALISE_E_LIMITES.md)
 
+[Ver versão publicada](https://jvickz.github.io/entrega-em-foco/) · [Código no GitHub](https://github.com/jvickz/entrega-em-foco) · [Post no LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7511033135023820802/)
+
 ## O projeto em 30 segundos
 
 Uma transportadora registrou **2.637 viagens** no primeiro semestre de 2024. Dessas, **352 chegaram atrasadas — 13,35% do total**.
