@@ -1,5 +1,7 @@
 # Post profissional para LinkedIn
 
+Publicação realizada: https://www.linkedin.com/feed/update/urn:li:activity:7511033135023820802/
+
 Operações logísticas não precisam de mais um painel. Precisam saber qual decisão tomar antes que uma exceção vire atraso.
 
 Neste projeto, analisei **2.637 viagens** de uma transportadora brasileira. **352 chegaram atrasadas — 13,35% do total.** A descoberta mais importante não foi um algoritmo: as ocorrências não tinham um identificador que permitisse ligá-las à viagem correspondente.
