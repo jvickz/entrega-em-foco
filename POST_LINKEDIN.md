@@ -20,8 +20,8 @@ O portfólio reúne dashboard executivo, análise de qualidade dos dados, previs
 
 Para empresas de transporte, e-commerce, last mile e supply chain, a pergunta central é prática: **a operação consegue agir antes da partida, ou só explicar o problema depois que o cliente já foi impactado?**
 
-Projeto completo: **[INSERIR LINK DO GITHUB PAGES]**  
-Código e documentação: **[INSERIR LINK DO REPOSITÓRIO]**
+Projeto completo: https://jvickz.github.io/entrega-em-foco/  
+Código e documentação: https://github.com/jvickz/entrega-em-foco
 
 Dados: *Data Set Perfect Trip*, Mendeley Data, licença CC BY 4.0.
 
@@ -35,6 +35,6 @@ Criei o **Entrega em Foco**, um produto de dados que propõe um Gate de Prontid�
 
 O case mostra análise, qualidade de dados, previsão temporal, desenho de produto e comunicação executiva — sem atribuir causalidade onde a base não permite.
 
-Projeto: **[INSERIR LINK]**
+Projeto: https://jvickz.github.io/entrega-em-foco/
 
 #CienciaDeDados #Logistica #Analytics #Portfolio
